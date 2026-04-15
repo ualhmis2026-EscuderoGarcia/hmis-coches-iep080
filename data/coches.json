@@ -1,0 +1,26 @@
+[
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "año": 2020,
+    "precio": 18000
+  },
+  {
+    "marca": "Ford",
+    "modelo": "Focus",
+    "año": 2018,
+    "precio": 15000
+  },
+  {
+    "marca": "Seat",
+    "modelo": "Ibiza",
+    "año": 2021,
+    "precio": 17000
+  },
+  {
+    "marca": "BMW",
+    "modelo": "Serie 3",
+    "año": 2019,
+    "precio": 30000
+  }
+]

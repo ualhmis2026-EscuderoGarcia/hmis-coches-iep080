@@ -1,0 +1,23 @@
+-------------------------------------------------------------------------------
+Test set: ual.hmis.CocheTest
+-------------------------------------------------------------------------------
+Tests run: 19, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.046 s -- in ual.hmis.CocheTest
+ual.hmis.CocheTest.testConstructorDefecto -- Time elapsed: 0.003 s
+ual.hmis.CocheTest.testGetMarca -- Time elapsed: 0.001 s
+ual.hmis.CocheTest.testEqualsIgual -- Time elapsed: 0.001 s
+ual.hmis.CocheTest.testToString -- Time elapsed: 0.009 s
+ual.hmis.CocheTest.testEqualsDistinto -- Time elapsed: 0.003 s
+ual.hmis.CocheTest.testEqualsConOtraClase -- Time elapsed: 0.001 s
+ual.hmis.CocheTest.testEqualsDistintoModelo -- Time elapsed: 0.001 s
+ual.hmis.CocheTest.testEqualsDistintoPrecio -- Time elapsed: 0.002 s
+ual.hmis.CocheTest.testEqualsConElMismo -- Time elapsed: 0.002 s
+ual.hmis.CocheTest.testSetModelo -- Time elapsed: 0.001 s
+ual.hmis.CocheTest.testSetPrecio -- Time elapsed: 0.001 s
+ual.hmis.CocheTest.testGetModelo -- Time elapsed: 0.001 s
+ual.hmis.CocheTest.testGetAño -- Time elapsed: 0.002 s
+ual.hmis.CocheTest.testGetPrecio -- Time elapsed: 0.001 s
+ual.hmis.CocheTest.testEqualsConNull -- Time elapsed: 0.001 s
+ual.hmis.CocheTest.testEqualsDistintaMarca -- Time elapsed: 0.001 s
+ual.hmis.CocheTest.testSetAño -- Time elapsed: 0.001 s
+ual.hmis.CocheTest.testEqualsDistintoAño -- Time elapsed: 0 s
+ual.hmis.CocheTest.testSetMarca -- Time elapsed: 0.001 s
